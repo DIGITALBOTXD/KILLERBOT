@@ -1,6 +1,6 @@
 from datetime import datetime
 
-photo3 = "https://telegra.ph/file/2c21645cd1c337d12918d.jpg"
+photo3 = "https://telegra.ph/file/8475f486c242ede5bebbc.jpg"
 
 def sample_response(input_text):
   user_message = str(input_text).lower()
@@ -9,7 +9,7 @@ def sample_response(input_text):
     return f"{photo3}\n\
     hey! adil is not here i am lara wanna play with me"
 
-  if user_message in ("agora", "karnataka king", "Agora Bhai", "@Mr_Agora"):
+  if user_message in ("rocky", "digital xd bot", "Digital Bhai", "@DIGITAL_XD"):
     return "HE is busy in hid schedule. you can tell me i inform him"
   if user_message in ("bsdk", "madharchod", "bkl", "behanchod", "cgutiya",
                       "gaandu"):
