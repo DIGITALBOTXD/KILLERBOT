@@ -18,7 +18,7 @@ I will manage your group with love!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [@DIGITAL_XD](https://t.me/DIGITAL_BOT_XD)
+❍ Code Owner » [@DIGITAL_XD](https://t.me/DIGITAL_XD)
 
 Type /help For Commands!
 """
