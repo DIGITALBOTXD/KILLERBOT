@@ -24,13 +24,13 @@ from datetime import datetime
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-API_ID = int(getenv("API_ID", "4110592"))
-API_HASH = getenv("API_HASH", "aa7c849566922168031b95212860ede0")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = getenv("OWNER_ID", None)
-SUDO_ID = "5876293679"
-ANSH = "5876293679"
-COWNER_ID = "5876293679"
+API_ID = int(getenv("API_ID", "23601454"))
+API_HASH = getenv("API_HASH", "264dbb3fb275c5c1f02a0dc0915f385b)
+BOT_TOKEN = getenv("BOT_TOKEN", 5834499919:AAG8ws-TxH35aaY8L4K16Yzi4zyvuFXIr4Y)
+OWNER_ID = getenv("OWNER_ID", 6218297904)
+SUDO_ID = "6095916119"
+ANSH = "6218297904"
+COWNER_ID = "6095916119"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int()]
 #TelegramClient..
 sree = TelegramClient(
@@ -39,16 +39,16 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "@aboutagora"
-repo = "https://t.me/teamagora"
+Owner = "@DIGITAL_XD"
+repo = "https://t.me/DIGITAL_BOT_DISCUSS"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/teamagora"), Button.url("••ʀєρο ᴊᴏɪɴ ɢʀᴏᴜᴘ ••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DIGITAL_BOT_XD"), Button.url("••ʀєρο ᴊᴏɪɴ ɢʀᴏᴜᴘ ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/2c21645cd1c337d12918d.jpg",
+            file="https://telegra.ph/file/8475f486c242ede5bebbc.jpg",
             caption=startxt.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -62,7 +62,7 @@ async def start(event):
     if event.sender.id not in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/2c21645cd1c337d12918d.jpg",
+            file="https://telegra.ph/file/8475f486c242ede5bebbc.jpg",
             caption=startxt2.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -77,19 +77,19 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/teamagora"), Button.url("••ʀєρο✨••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DIGITAL_BOT_XD"), Button.url("••ʀєρο✨••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/2c21645cd1c337d12918d.jpg",
+            file="https://telegra.ph/file/8475f486c242ede5bebbc.jpg",
             caption=hlptxt.format(event.sender.first_name, event.sender.id),
             link_preview=False,
             buttons=buttns
         )
     if event.sender.id not in OP:
         await event.reply(
-            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://t.me/aboutagora)",
+            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://t.me/DIGITAL_BOT_XD)",
             link_preview=False,
         )       
 
@@ -176,7 +176,7 @@ async def ver(events):
 
 
 print("Your Bot  hogya bot deployed ✅")
-print("Join teamagora if you facing any kind of issue!!")
+print("Join digital bot xd if you facing any kind of issue!!")
 
 
 
