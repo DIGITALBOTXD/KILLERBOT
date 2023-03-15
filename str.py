@@ -18,23 +18,23 @@ I will manage your group with love!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [@Mr_Agora](https://t.me/aboutagora)
+❍ Code Owner » [@DIGITAL_XD](https://t.me/DIGITAL_BOT_XD)
 
 Type /help For Commands!
 """
 
 
-startxt2 = """Hey Jai Shree Ram [{}](tg://user?id={}),
+startxt2 = """Hey Jai Shree Ram [{}](tg://user?id={6218297904}),
 
 __This Is KILLERBOT Bot\nOnly My Owner Can Access This Bot👅👻!__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [BASE OF BOT،"(💛](https://t.me/@teamagora)
+❍ Code Owner » [BASE OF BOT،"(💛](https://t.me/@DIGITAL_XD)
 """
 
-hlptxt = """ hey Jai Shree Ram [{}](tg://user?id={}),
+hlptxt = """ hey Jai Shree Ram [{}](tg://user?id={6218297904}),
 
 __Here is the help menu__:
 
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ /leave - To leave group.
 ❅ /restart - To restart the bot.
 
-❍ Facing any kind of issue then just join 🚩 @TeamAgora and ask there!!
+❍ Facing any kind of issue then just join 🚩 @DIGITAL_BOT_XD and ask there!!
 """
