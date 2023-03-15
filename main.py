@@ -43,7 +43,7 @@ Owner = "@DIGITAL_XD"
 repo = "https://t.me/DIGITAL_BOT_DISCUSS"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DIGITAL_BOT_XD"), Button.url("••ʀєρο ᴊᴏɪɴ ɢʀᴏᴜᴘ ••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DIGITAL_XD"), Button.url("••ʀєρο ᴊᴏɪɴ ɢʀᴏᴜᴘ ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -77,7 +77,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DIGITAL_BOT_XD"), Button.url("••ʀєρο✨••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DIGITAL_XD"), Button.url("••ʀєρο✨••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
