@@ -24,7 +24,7 @@ Type /help For Commands!
 """
 
 
-startxt2 = """Hey Jai Shree Ram [{}](tg://user?id={6218297904}),
+startxt2 = """Hey Jai Shree Ram [{}](tg://user?id={}),
 
 __This Is KILLERBOT Bot\nOnly My Owner Can Access This Bot👅👻!__
 
@@ -34,7 +34,7 @@ __This Is KILLERBOT Bot\nOnly My Owner Can Access This Bot👅👻!__
 ❍ Code Owner » [BASE OF BOT،"(💛](https://t.me/@DIGITAL_XD)
 """
 
-hlptxt = """ hey Jai Shree Ram [{}](tg://user?id={6218297904}),
+hlptxt = """ hey Jai Shree Ram [{}](tg://user?id={}),
 
 __Here is the help menu__:
 
