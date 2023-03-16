@@ -25,9 +25,9 @@ logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
 API_ID = int(getenv("API_ID", "23601454"))
-API_HASH = getenv("API_HASH", "264dbb3fb275c5c1f02a0dc0915f385b)
-BOT_TOKEN = getenv("BOT_TOKEN", 5834499919:AAG8ws-TxH35aaY8L4K16Yzi4zyvuFXIr4Y)
-OWNER_ID = getenv("OWNER_ID", 6218297904)
+API_HASH = getenv("API_HASH", "264dbb3fb275c5c1f02a0dc0915f385b")
+BOT_TOKEN = getenv("BOT_TOKEN", "6085677109:AAHSaR0bBC9_2DWsqPrL4lHpzTGdLo7S-kI")
+OWNER_ID = getenv("OWNER_ID", "6218297904")
 SUDO_ID = "6095916119"
 ANSH = "6218297904"
 COWNER_ID = "6095916119"
@@ -176,7 +176,7 @@ async def ver(events):
 
 
 print("Your Bot  hogya bot deployed ✅")
-print("Join digital bot xd if you facing any kind of issue!!")
+print("Join digital_bot_xd if you facing any kind of issue!!")
 
 
 
