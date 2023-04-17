@@ -18,7 +18,7 @@ I will manage your group with love!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [@DIGITAL_XD](https://t.me/DIGITAL_XD)
+❍ Code Owner » [@Smartnajim1](https://t.me/Smartnajim1)
 
 Type /help For Commands!
 """
@@ -31,7 +31,7 @@ __This Is KILLERBOT Bot\nOnly My Owner Can Access This Bot👅👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [BASE OF BOT،"(💛](https://t.me/@DIGITAL_XD)
+❍ Code Owner » [BASE OF BOT،"(💛](https://t.me/Smartnajim1)
 """
 
 hlptxt = """ hey Jai Shree Ram [{}](tg://user?id={}),
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ /leave - To leave group.
 ❅ /restart - To restart the bot.
 
-❍ Facing any kind of issue then just join 🚩 @DIGITAL_BOT_XD and ask there!!
+❍ Facing any kind of issue then just join 🚩 @TEAM_PHYSCO_FIGHTER and ask there!!
 """
