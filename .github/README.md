@@ -1,4 +1,4 @@
-<h3 align="center"><strong><code>KILLER BOT 🚀</code></strong></h3>
+<h3 align="center"><strong><code>XD BOT 🚀</code></strong></h3>
 
 <img src="https://telegra.ph//file/a1cb97a46b6c27a050902.jpg" alt="Unable To serve You">
 <blockquote>
