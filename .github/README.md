@@ -24,7 +24,7 @@
 </details><details>
 <summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
 <blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/KARNATAKAHACKER/KILLERBOT/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/DIGITALBOTXD/KILLERBOT/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
 </blockquote> 
 </details>
 </p>
@@ -42,17 +42,17 @@
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
 <strong>All credit Goes To</strong>&nbsp;<code>CuteBaccha𓆩💗𓆪</code><br>
-<code>Telegram:- <a href="https://t.me/ISHQ00_I">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
-<code>Github:- <a href="https://github.com/CuteBaccha">ID_SELLER00</a></code><br>
+<code>Telegram:- <a href="https://t.me/ROCKY_FlGHTERR">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
+<code>Github:- <a href="https://github.com/DIGITALBOTXD">ID_SELLER00</a></code><br>
 </details>
 </p>
 
 <p><h3><strong>Support 🇮🇳</strong></h3>
-<a href="https://t.me/ISHQ00_I"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/ROCKY_FlGHERR"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
-<a href = "https://github.com/CuteBaccha/JaanBanallBot/graphs/contributors">
+<a href = "https://github.com/DIGITALBOTXD/KILLERBOT">
 <img src = "https://contrib.rocks/image?repo=@ID_SELLER00/JaanBanallBot" height="30px"/>
 </a><br><br>
 <strong>Made with <a href="https://python.org"><code>Python🐍</code></a></strong>
