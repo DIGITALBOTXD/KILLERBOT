@@ -24,13 +24,13 @@ from datetime import datetime
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-API_ID = int(getenv("API_ID", "23601454"))
-API_HASH = getenv("API_HASH", "264dbb3fb275c5c1f02a0dc0915f385b")
-BOT_TOKEN = getenv("BOT_TOKEN", "6085677109:AAHSaR0bBC9_2DWsqPrL4lHpzTGdLo7S-kI")
-OWNER_ID = getenv("OWNER_ID", "6218297904")
-SUDO_ID = "6095916119"
-ANSH = "6218297904"
-COWNER_ID = "6095916119"
+API_ID = int(getenv("API_ID", "25851601"))
+API_HASH = getenv("API_HASH", "0fd30070ca03c499ac53bc22c4ed500b)
+BOT_TOKEN = getenv("BOT_TOKEN", "5773874885:AAEIlOg8e_6LCjILnw1o3AuCy5WzGb934AY-kI")
+OWNER_ID = getenv("OWNER_ID", "5785153497")
+SUDO_ID = "5888298893"
+ANSH = "5785153497"
+COWNER_ID = "5888298893"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int()]
 #TelegramClient..
 sree = TelegramClient(
@@ -39,16 +39,16 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "@DIGITAL_XD"
-repo = "https://t.me/DIGITAL_BOT_DISCUSS"
+Owner = "@Smartnajim1"
+repo = "https://t.me/TEAM_PHYSCO_FIGHTER"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DIGITAL_XD"), Button.url("••ʀєρο ᴊᴏɪɴ ɢʀᴏᴜᴘ ••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/TEAM_PHYSCO_FIGHTER"), Button.url("••ʀєρο ᴊᴏɪɴ ɢʀᴏᴜᴘ ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/8475f486c242ede5bebbc.jpg",
+            file="https://telegra.ph//file/a1cb97a46b6c27a050902.jpg",
             caption=startxt.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -77,12 +77,12 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DIGITAL_XD"), Button.url("••ʀєρο✨••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/TEAM_PHYSCO_FIGHTER"), Button.url("••ʀєρο✨••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/8475f486c242ede5bebbc.jpg",
+            file="https://telegra.ph//file/c538ac9e79b6edb955c96.jpg",
             caption=hlptxt.format(event.sender.first_name, event.sender.id),
             link_preview=False,
             buttons=buttns
