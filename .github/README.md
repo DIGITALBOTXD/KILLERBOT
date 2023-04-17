@@ -1,6 +1,6 @@
 <h3 align="center"><strong><code>KILLER BOT 🚀</code></strong></h3>
 
-<img src="(https://telegra.ph/BOT-XD-04-17)" alt="Unable To serve You">
+<img src="https://telegra.ph/BOT-XD-04-17" alt="Unable To serve You">
 <blockquote>
 <strong><i>❍&nbsp;Telegram jaanbanall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
