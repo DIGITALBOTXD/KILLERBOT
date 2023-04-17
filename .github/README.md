@@ -14,7 +14,7 @@
 ❍ <code>BOT_TOKEN</code><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/Botfather"><code>@BOTFATHER</code></a><br>
 ❍ <code>QOWNER_ID</code><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/teamagora_bot"><code>@TeamAgora</code></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/XDD_MUSIC_ROBOT"><code>@TeamAgora</code></a>
 </details><details>
 <summary><h4><strong><i>Commands⚙️🛠️</i></strong></h4></summary>
 &nbsp;◍&nbsp;<code>/ping</code>&nbsp;:&nbsp;<strong>To Check Bot Ping Status.</strong><br>
